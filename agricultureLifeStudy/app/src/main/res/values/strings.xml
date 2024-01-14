@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">agri Life Study</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="log_in">Log In</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="register_yourself">Register Yourself</string>
+    <string name="home">Home</string>
+    <string name="preference_file_name">Agri Preferences</string>
+    <string name="mobile_number">Enter Mobile Number</string>
+    <string name="email">Enter Email</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="address">Enter Address</string>
+    <string name="choose_password">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="next">Next</string>
+</resources> 

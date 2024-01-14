@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/myprofile"
+        android:title="@string/myprofile"
+        android:icon="@drawable/ic_myprofile"
+        />
+
+    <item
+        android:id="@+id/worker"
+        android:title="@string/worker"
+        android:icon="@drawable/ic_worker"/>
+
+    <item
+        android:id="@+id/contractor"
+        android:title="@string/contractor"
+        android:icon="@drawable/ic_contractor"/>
+
+    <item
+        android:id="@+id/logout"
+        android:title="@string/lagout"
+        android:icon="@drawable/ic_logout"/>
+
+
+
+</menu>

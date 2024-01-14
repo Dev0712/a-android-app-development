@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BaBa</string>
+    <string name="enter_name">Enter Your Name</string>
+    <string name="mobile_number">Enter Your Mobile Number</string>
+    <string name="address">Enter Your Address</string>
+    <string name="choose_password">Enter Password</string>
+    <string name="confirm_password">Enter Confirm Password</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="enter_password">Enter PAssword</string>
+    <string name="log_in">Login</string>
+</resources>

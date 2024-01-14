@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#3F51B5"
+    tools:context=".LockActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Choose One Method"
+        android:textColor="#ffffff"
+        android:layout_marginTop="70dp"
+        android:layout_marginBottom="70dp"
+        android:layout_gravity="center_horizontal"
+        android:textSize="40sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="75dp" />
+
+    <RadioButton
+        android:id="@+id/btnpinmethod"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:layout_gravity="center_horizontal"
+        android:text="PIN Method"
+        android:textSize="30sp" />
+
+    <RadioButton
+        android:id="@+id/btnqamethod"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Q/A Method"
+        android:layout_margin="20dp"
+        android:layout_gravity="center_horizontal"
+        android:textSize="30sp"
+        android:padding="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.421"
+        tools:layout_editor_absoluteX="96dp" />
+
+    <RadioButton
+        android:id="@+id/btnsmsmethod"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SMS Method"
+        android:layout_gravity="center_horizontal"
+        android:padding="20dp"
+        android:textSize="30sp"
+        android:layout_margin="20dp"
+        tools:layout_editor_absoluteX="96dp"
+        tools:layout_editor_absoluteY="384dp" />
+</LinearLayout>

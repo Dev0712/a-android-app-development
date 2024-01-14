@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Apna Chauk</string>
+    <string name="enter_password">enter password</string>
+    <string name="log_in">Login</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="register_yourself">Register Yourself</string>
+    <string name="enter_mobile_number">enter mobile number</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="email">Enter Email</string>
+    <string name="mobile_number">Enter Mobile Number</string>
+    <string name="address">Enter Address</string>
+    <string name="choose_password">Enter Password</string>
+    <string name="confirm_password">Enter Confirm Password</string>
+    <string name="next">Next</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="lagout">Logout</string>
+    <string name="contractor">Contractor</string>
+    <string name="worker">Worker</string>
+    <string name="myprofile">Profile</string>
+    <string name="home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer">DEVENDRA</string>
+</resources>
